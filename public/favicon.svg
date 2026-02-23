@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Outer body of camera -->
+  <rect x="6" y="18" width="52" height="36" rx="6" ry="6" fill="#1a1208"/>
+  <!-- Camera top bump (viewfinder/flash hotshoe) -->
+  <rect x="20" y="12" width="18" height="8" rx="3" ry="3" fill="#1a1208"/>
+  <!-- Lens outer ring -->
+  <circle cx="32" cy="36" r="14" fill="#2a1e08" stroke="#c9a84c" stroke-width="2"/>
+  <!-- Lens inner ring -->
+  <circle cx="32" cy="36" r="10" fill="#0d0d0d" stroke="#b8922a" stroke-width="1.5"/>
+  <!-- Lens inner glass reflection -->
+  <circle cx="32" cy="36" r="7" fill="#111111"/>
+  <circle cx="28" cy="32" r="2.5" fill="#c9a84c" opacity="0.25"/>
+  <!-- Shutter button -->
+  <circle cx="50" cy="22" r="4" fill="#c9a84c"/>
+  <circle cx="50" cy="22" r="2.5" fill="#e8c76a"/>
+  <!-- Flash / indicator light -->
+  <circle cx="14" cy="22" r="3" fill="#e8c76a" opacity="0.7"/>
+  <!-- Brand initial "A" in gold on lens -->
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#c9a84c" font-weight="bold">A</text>
+</svg>
